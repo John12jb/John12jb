@@ -4,7 +4,7 @@ I'm John from India(Hyderabad), I'm currently studying computer science in Artif
 
 Skills: C / Python / Java / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+<!-- 🔭 I’m currently working on this page. -->
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/john-benyamin-a005b5231//)  

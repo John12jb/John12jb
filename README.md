@@ -3,8 +3,11 @@
 I'm John from India(Hyderabad), I'm currently studying computer science in Artificial intelligence & Machine learning. Trying to explore new things learning in tech.
 
 Languages: Python, Java, SQL
+
 Web Development: HTML, CSS, JavaScript, AI-integrated tools
+
 Data Analytics & ML: Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, XGBoost, Mediapipe
+
 Tools/Frameworks: NLTK, AWT, MySQL
 
 <!-- 🔭 I’m currently working on this page. -->
